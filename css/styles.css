@@ -10953,3 +10953,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 .contact-title {
   padding-left: 50px;
 }
+
+.project-thumbnail {
+  height: 300px;
+  width: auto;
+}
